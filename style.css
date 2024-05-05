@@ -1,0 +1,50 @@
+img{
+    max-width: 100%;
+}
+.img{
+    width:100px;
+}
+.class {
+    padding: 100px 0px;
+}
+.photo{
+    width: 400px;
+}
+.slider{
+    background: #f9f9ff;
+}
+.pics{
+    width: 400px;
+    margin: auto;
+
+}
+.pic{
+    width: 400px;
+    margin: auto;
+}
+.pricing-section{
+    background: #8490ff;
+}
+.gol{
+    background: #dddd;
+    width: 100px;
+    height: 100px;
+}
+.cardeer{
+    width: 33%;
+
+}
+.buttons{
+    color: #8490ff;
+    font-size: 20px;
+}
+.ju{
+    width: 100px;
+    margin-top: -30px;
+}
+.you{
+    margin-top: 20px;
+}
+.form-section{
+    background: #f9f9ff;
+}
